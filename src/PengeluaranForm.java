@@ -439,12 +439,12 @@ public class PengeluaranForm extends javax.swing.JFrame {
         gridBagConstraints.gridx = 0;
         gridBagConstraints.gridy = 5;
         gridBagConstraints.gridwidth = 5;
-        gridBagConstraints.ipadx = 436;
+        gridBagConstraints.ipadx = 400;
         gridBagConstraints.ipady = 407;
         gridBagConstraints.anchor = java.awt.GridBagConstraints.NORTHWEST;
         gridBagConstraints.weightx = 1.0;
         gridBagConstraints.weighty = 1.0;
-        gridBagConstraints.insets = new java.awt.Insets(20, 73, 0, 50);
+        gridBagConstraints.insets = new java.awt.Insets(20, 127, 0, 104);
         jPanel2.add(jScrollPane1, gridBagConstraints);
 
         btnHapus.setFont(new java.awt.Font("Verdana", 0, 14)); // NOI18N
